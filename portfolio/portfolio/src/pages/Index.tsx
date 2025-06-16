@@ -193,8 +193,8 @@ const Index = () => {
 
           {/* Right: Resume + Mobile Menu Button */}
           <div className="flex items-center space-x-2">
-          <a
-            href="/Arshad Ahamed.pdf"
+         <a
+            href="/Arshad%20Ahamed.pdf"
             download="Arshad_Ahamed.pdf"
             className="hidden sm:flex items-center justify-center bg-primary text-primary-foreground hover:bg-primary/90 px-4 py-2 rounded-md text-sm font-medium shadow-md transition-all duration-300"
           >
