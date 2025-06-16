@@ -328,7 +328,7 @@ const Index = () => {
           </div>
           <div className="flex items-center gap-2 hover-scale cursor-pointer transition-all duration-300 hover:text-primary">
             <Mail size={14} className="sm:w-4 sm:h-4 hover-rotate" />
-            arshatofficial31@gmail.com
+            arshathofficial31@gmail.com
           </div>
         </div>
       </div>
@@ -432,12 +432,9 @@ const Index = () => {
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm font-medium text-muted-foreground">Email</p>
-                  <p className="text-foreground font-semibold">arshatofficial31@gmail.com</p>
+                  <p className="text-foreground font-semibold">arshathofficial31@gmail.com</p>
                 </div>
-                <div className="space-y-1">
-                  <p className="text-sm font-medium text-muted-foreground">Phone</p>
-                  <p className="text-foreground font-semibold">+94 75-822-9303</p>
-                </div>
+              
               </div>
             </div>
 
@@ -650,7 +647,7 @@ const Index = () => {
           <Button
             size="lg"
             className="group hover-lift bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg hover:shadow-primary/30 w-full sm:w-auto flex items-center justify-center gap-2"
-            onClick={() => window.location.href = 'mailto:arshatofficial31@gmail.com'}
+            onClick={() => window.location.href = 'mailto:arshathofficial31@gmail.com'}
           >
             <Mail className="h-5 w-5 group-hover:rotate-12 transition-transform duration-300" />
             arshatofficial31@gmail.com
