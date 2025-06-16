@@ -422,8 +422,7 @@ const Index = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-1">
                   <p className="text-sm font-medium text-muted-foreground">Education</p>
-                  <p className="text-foreground font-semibold">Srilankan Institute Of Information Technology</p>
-                    <p className="text-foreground font-semibold">Final Year Undergradutae</p>
+                  <p className="text-foreground font-semibold">Srilankan Institute of Information Technology (SLIIT)</p>
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm font-medium text-muted-foreground">Academic Experience</p>
