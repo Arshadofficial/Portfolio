@@ -171,7 +171,6 @@ const Index = () => {
               { id: 'about', icon: User, label: 'About' },
               { id: 'skills', icon: ChartBar, label: 'Skills' },
               { id: 'projects', icon: Briefcase, label: 'Projects' },
-              { id: 'education', icon: BookOpen, label: 'Education' },
               { id: 'getintouch', icon: MessageCircle, label: 'Get in Touch' },
             ].map((item) => (
               <Button
@@ -224,7 +223,6 @@ const Index = () => {
               { id: 'about', icon: User, label: 'About' },
               { id: 'skills', icon: ChartBar, label: 'Skills' },
               { id: 'projects', icon: Briefcase, label: 'Projects' },
-              { id: 'education', icon: BookOpen, label: 'Education' },
               { id: 'getintouch', icon: MessageCircle, label: 'Get in Touch' },
             ].map((item) => (
               <Button
@@ -423,8 +421,9 @@ const Index = () => {
               </p>
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-1">
-                  <p className="text-sm font-medium text-muted-foreground">From</p>
-                  <p className="text-foreground font-semibold">Colombo, Sri Lanka</p>
+                  <p className="text-sm font-medium text-muted-foreground">Education</p>
+                  <p className="text-foreground font-semibold">Srilankan Institute Of Information Technology</p>
+                    <p className="text-foreground font-semibold">Final Year Undergradutae</p>
                 </div>
                 <div className="space-y-1">
                   <p className="text-sm font-medium text-muted-foreground">Academic Experience</p>
