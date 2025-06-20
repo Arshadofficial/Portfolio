@@ -31,7 +31,7 @@ import img3 from '../images/img3.png';
 import img4 from '../images/img4.png';
 import img5 from '../images/img5.png';
 import ArshadAhamed from 'public/Arshad_Ahamed.pdf';
-
+import ChatbotWidget from "@/components/ui/chatbotWidget";
 
 
 const Index = () => {
@@ -685,7 +685,7 @@ const Index = () => {
           </Button>
         </div>
       </div>
-      
+        <ChatbotWidget />
         
 
     </section>
